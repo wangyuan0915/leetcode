@@ -30,3 +30,5 @@ if __name__ == "__main__":
     left = TreeNode(2)
     root.left = left
     print(hasPathSum(root,1))
+
+
