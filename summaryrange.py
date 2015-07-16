@@ -25,3 +25,4 @@ def summaryRanges(nums):
     return result
 
 print(summaryRanges([-1000000000,-9999,0,1,2,10,100,1000,999999999,1000000000]))
+
