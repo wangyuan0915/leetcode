@@ -62,3 +62,5 @@ def findrightHelper(nums, target, start, cand):
 
 
 print(searchRange([1,3,5,5,7,9,12],9))
+
+
