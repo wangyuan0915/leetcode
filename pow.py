@@ -1,4 +1,4 @@
-#to split binary to make recursion less times
+#to split the cases binary to make recursion less times
 def myPow(x,n):
     if n == 0:
         return 1
